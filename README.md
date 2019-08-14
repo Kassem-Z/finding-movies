@@ -60,4 +60,4 @@ O arquivo *youtube_api.py* foi criado a partir do exemplo usado neste [link](htt
 
 # Licença
 
-finding_movies é _Copyright_ © 2018 Kassem Zaher Filho. É um software livre, e pode ser redistribuído sob os termos especificados no arquivo [LICENSE](\LICENSE.txt).
+finding_movies é _Copyright_ © 2018 Kassem Zaher Filho. É um software livre, e pode ser redistribuído sob os termos especificados no arquivo [LICENSE](https://github.com/Kassem-Z/finding-movies/blob/master/LICENSE.txt).
