@@ -3,7 +3,7 @@ finding_movies é um aplicativo _server-side_ que busca filmes através de nomes
 
 # Começo rápido
 
-Este projeto ainda não encontra-se disponibilizado na _internet_. Para obter o código deste projeto, envie um e-mail para **kassem.zaher@outlook.com** com o assunto **finding_movies code**.
+Este projeto está disponibilizado em minha página no _GitHub_. Você pode acessá-lo clicando [aqui](https://github.com/Kassem-Z/finding-movies). Em caso de dúvidas, envie um e-mail para **kassem.zaher@outlook.com** com o assunto **finding_movies code**.
 
 ## Instalação
 
@@ -14,11 +14,12 @@ Baixe e instale o python em seu computador de acordo com o seu sistema operacion
 * [Outros](https://www.python.org/download/other/)
 
 Abra o prompt de comando e instale, respectivamente, as APIs do IMDb e Google:
+```
 `$ pip install IMDbPY`
 
 `$ pip install --upgrade google-api-python-client`
 `$ pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2`
-
+```
 Para usar a API do Google, você precisará de uma conta Google e obter uma chave de desenvolvedor. Você pode seguir o passo-a-passo para obter a chave neste [link](https://developers.google.com/youtube/v3/quickstart/python).
 Após finalizar o passo-a-passo acima, localize o código abaixo no programa *youtube_api.py* e preencha com a sua chave de desenvolvedor da API Google:
 ```
